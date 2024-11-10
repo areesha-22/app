@@ -14,7 +14,7 @@ export default  function Services() {
 <h3 className="text-xl py-3 font-bold ">Web Design</h3>
 <p>Transform your website into a stunning digital experience. My web design services include:
 
-- Custom and responsive designs tailored to your brand
+ Custom and responsive designs tailored to your brand
 - User-friendly interfaces for seamless navigation
 - Mobile-friendly designs for optimal viewing
 - Engaging visuals and compelling content strategies
