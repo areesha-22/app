@@ -8,7 +8,7 @@ import Services from "../Components/Services";
 import Projects from "../Components/Projects";
 import Contact from "../Components/Contact";
 import Footer from "../Components/Footer";
-
+import '../styles/globals.css'
 import "aos/dist/aos.css"
 import { useEffect } from "react";
 import AOS from "aos"

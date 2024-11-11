@@ -14,18 +14,6 @@ const config: Config = {
       },
     },
   },
-  module,exports : {
-    //...
-    build: {
-      postcss: {
-        plugins: {
-          tailwindcss: {},
-          autoprefixer: {},
-        },
-      },
-    },
-  },
-
   plugins: [],
 };
 export default config;
